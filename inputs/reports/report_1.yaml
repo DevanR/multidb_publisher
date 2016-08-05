@@ -1,0 +1,33 @@
+---
+- catalogue:
+  - aggregation:
+    metric:
+    origin:
+    resolution:
+    tag:
+  - aggregation:
+    metric:
+    origin:
+    resolution:
+    tag:
+  classification:
+  context:
+  description:
+  extras:
+    description:
+    focus:
+      end: 
+      start:
+      visible:
+    query:
+      end: 
+      relative:
+      start:
+    smoothing:
+    y-axis:
+      label:
+      minimum:
+  name:
+  privilege:
+  type:
+...

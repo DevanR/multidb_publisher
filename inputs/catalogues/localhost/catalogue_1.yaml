@@ -1,0 +1,12 @@
+---
+- aggregation:
+  id:
+  metric:
+  name:
+  origin:
+  query:
+  resolution:
+  secure:
+  tag:
+  type:
+...

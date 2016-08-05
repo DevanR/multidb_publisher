@@ -1,0 +1,11 @@
+localhost:
+    connection:
+    usere:
+    passwd:
+    name:
+    host:
+    port:
+    path:
+    debug:
+    init_query:
+
